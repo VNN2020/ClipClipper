@@ -1,0 +1,17 @@
+__pycache__/
+venv/
+venv2/
+*.pyc
+*.db
+*.sqlite
+.env
+*.log
+node_modules/
+dist/
+build/
+.cache/
+*.lock
+.DS_Store
+.coverage
+htmlcov/
+__pycache__/
